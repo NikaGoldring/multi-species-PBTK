@@ -1,6 +1,6 @@
 # multi-species-PBTK
 
-This project repository is connected to the journal article ‘*A Novel Multi-Species Toxicokinetic Modeling Approach in Support of Chemical Risk Assessment*’ by Mangold-Döring et al. (submitted to ES&T in August 2020). The key element of this repository is the Jupyter Notebook with the model code (`Multi-species-PBTK-model.ipynb`), in which you will find a more detailed description of instructions and its function. <br>
+This project repository is connected to the journal article ‘*A Novel Multi-Species Toxicokinetic Modeling Approach in Support of Chemical Risk Assessment*’ by Mangold-Döring et al. (submitted to ES&T in March 2021). The key element of this repository is the Jupyter Notebook with the model code (`Multi-species-PBTK-model.ipynb`), in which you will find a more detailed description of instructions and its function. <br>
 Furthermore, this repository contains:<br>  
 
 `Derive-parameter-distributions.ipynb` : Jupyter notebook to derive statistical underlying parameter distributions <br><br>
